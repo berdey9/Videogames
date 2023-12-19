@@ -1,0 +1,13 @@
+.contImg img {
+  width: 10rem;
+  height: 10rem;
+}
+.cont {
+  width: 20rem;
+  height: 15;
+  background-color: aquamarine;
+  border: solid 2px black;
+  margin: 15px;
+  display: inline-block;
+  margin-right: 10px;
+}

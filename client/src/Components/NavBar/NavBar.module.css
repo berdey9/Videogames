@@ -1,0 +1,21 @@
+.cont {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: magenta;
+  border: solid 5px gold;
+  box-shadow: 15px 10px 10px indigo;
+}
+.contImg img {
+  width: 5rem;
+  padding: 5px;
+}
+.contLinks {
+  display: flex;
+  width: 15rem;
+  justify-content: space-between;
+  color: bisque;
+}
+.navLink {
+  color: bisque;
+}
